@@ -1,0 +1,16 @@
+*{
+    background-image: url("./clock.jpg");
+    background-repeat: no-repeat;
+    background-size: 1700px 750px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 60px;
+   
+}
+.clock{
+    align-items: center;
+    text-align: center;
+    padding-top: 350px;
+    font-weight: bold;
+    color: beige;
+    padding-left: 500px;
+}
